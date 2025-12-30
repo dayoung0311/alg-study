@@ -74,6 +74,7 @@ class Main {
                     }
                 }
             }
+            deque.clear();
             if(i == testNum - 1) System.out.print(answer);
             else System.out.println(answer);
         }
